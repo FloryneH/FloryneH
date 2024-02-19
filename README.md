@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Wika</h1>
 <h3 align="center">A junior Fullstack developer</h3>
 
-- 🔭 I’m currently working on **PasSage Avenir**
 
 - 🌱 I’m currently learning **React, Symfony**
 
